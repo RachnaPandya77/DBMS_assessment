@@ -45,11 +45,12 @@ VALUES(5001, 'James Hoog', 'New York', 0.15),
 ![Output-image](salseman.png)
 
 <hr>
-From the above given tables write a SQL query to find the salesperson(s) and the
-customer(s) represented here. Return the Customer Name, City, Salesman,
-commission.
-NOTE : Make sure you have to use join concept to solve the query
-Make sure to make your code clean kneat
+
+- From the above given tables write a SQL query to find the salesperson(s) and the
+  customer(s) represented here. Return the Customer Name, City, Salesman,
+  commission.
+- NOTE : Make sure you have to use join concept to solve the query
+
 <hr>
 
 ```
